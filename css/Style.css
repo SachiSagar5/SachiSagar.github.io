@@ -278,7 +278,9 @@ input#img-5:checked ~ .nav-dots label#img-dot-5,
 input#img-6:checked ~ .nav-dots label#img-dot-6 {
 	    border: 2px solid #fff;
 }
-
+.navbar-default.affix .nav > li>a{
+  font-size: 14px !important;
+}
 /*progress bar*/
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 .skillbar {
@@ -674,7 +676,7 @@ header .header-content .header-content-inner hr {
 }
 h1{
 	font-family: 'Geo', sans-serif;
-	font-size:40px !important;
+	font-size:35px !important;
 }
 .nav li a{
 	font-family: 'Geo', sans-serif;
