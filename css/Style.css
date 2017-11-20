@@ -142,7 +142,7 @@ aside {
 .navbar-default .nav > li > a,
 .navbar-default .nav > li > a:focus {
 	text-transform: uppercase;
-	font-size: 14px !important;
+	font-size: 18px !important;
 	font-weight: 500;
 	color: #fff;
 }
